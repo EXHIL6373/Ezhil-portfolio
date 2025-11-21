@@ -26,7 +26,7 @@ It showcases my skills, projects, and professional journey, with a contact form 
 
 ## 🔧 Setup Instructions
 
-### 1. Clone the Repository
+# 1. Clone the Repository
 ```bash
 git clone https://github.com/yourusername/portfolio.git
 cd portfolio
@@ -89,5 +89,6 @@ EmailJS: Works seamlessly without backend setup
 -This portfolio serves as a professional showcase of my skills, projects, and career journey. It demonstrates frontend development with React.js, integrates EmailJS for seamless communication, and is deployed using GitHub Pages for easy access.
 
 ---
+
 
 ✅ Now your README clearly shows **GitHub Pages deployment**.   
